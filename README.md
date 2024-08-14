@@ -1,2 +1,5 @@
-# react-notes
-All of my notes for the udemy course "React - The Complete Guide 2024"
+# React - The Complete 2024 Guide
+<hr>
+
+My personal journey to master React.js <br/>
+Starting Date: Sunday Aug 11, 2024
