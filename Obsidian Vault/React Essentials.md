@@ -686,7 +686,7 @@ Now we just need a clever way to iterate over all this data and create some JSX 
 ```
 
 
-Carefully note that if we need a unique `key` prop when rendering multiple `<li>` tags. This is an enforced rule and an error is thrown if  you don't do this (more advanced details on this later). This `key` prop is mandatory regardless of the fact that `CoreConcept` never specified a prop `key`, it is a special keyword prop that we cannot use as a regular prop, similar to `children`. Note that these reserved props like `key` and `children` are also allowed to be used on regular HTML tags with JSX transpiling too, like `<p key=0>` .
+Carefully note that we need a unique `key` prop when rendering multiple `<li>` tags. This is an enforced rule and an error is thrown if  you don't do this (more advanced details on this later). This `key` prop is mandatory for *rendering lists*, which is always from some method `Array.prototype.someArrayMethod`, most commonly `.map`. Regardless of the fact that `CoreConcept` never specified a prop `key`, it is a special keyword prop that we cannot use as a regular prop, similar to `children`. For static lists, while technically fine, it is often still preferred to the `key` prop. Note that these reserved props like `key` and `children` are also allowed to be used on regular HTML tags with JSX transpiling too, like `<p key=0>` .
 
 The `key` prop is often indexed with integers, which we can easily implement with the `.map` overload (imagine in our case entries had duplicate titles, then `entry.title` doesn't work)
 

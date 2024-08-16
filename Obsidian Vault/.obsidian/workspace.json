@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac9e51c7b87464d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Essentials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Essentials - Deep Dive.md",
+                "file": "React Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Essentials - Deep Dive.md",
+                "file": "React Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Essentials - Deep Dive.md"
+                "file": "React Essentials.md"
               }
             }
           }
@@ -146,11 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d9e59ffc567c42a",
+  "active": "ac9e51c7b87464d6",
   "lastOpenFiles": [
+    "Tic Tac Toe Project Learnings.md",
+    "React Essentials - Deep Dive.md",
     "React Essentials.md",
     "React – The Complete 2024 Guide.md",
-    "React Essentials - Deep Dive.md",
     "Untitled",
     "Preliminaries.md",
     "Pasted image 20240813013357.png",
