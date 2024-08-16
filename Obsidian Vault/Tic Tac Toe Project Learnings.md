@@ -1,5 +1,0 @@
-<hr>
-<h4>Asset Storage</h4>
-We often store images, or other files/assets in the `/public` folder. These files are automatically transferred to the root of the project at build time, so when we want to reference something `public/img.png`, we would actually instead just do `img.png` as this is what the directory is after building. We typically use this directory for any assets reference directly in `index.html` or `index.css`, but can technically use it anywhere in the project. A common use for public assets are favicons.
-
-For assets used anywhere in `src` (which is the vast majority of the project) we store assets somewhere in `src/*`. By convention we typically make a folder `src/assets` to hold assets. These assets are altered in the build process, and go through optimization processes like compression, resizing, and change of the file name with a unique hash for cache busting (prevent the browser from serving an outdated, cached version of the file).

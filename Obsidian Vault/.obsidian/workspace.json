@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Essentials.md",
+                "file": "React Essentials - Deep Dive II.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "key",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Essentials.md",
+                "file": "React Essentials - Deep Dive II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Essentials.md",
+                "file": "React Essentials - Deep Dive II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Essentials.md"
+                "file": "React Essentials - Deep Dive II.md"
               }
             }
           }
@@ -162,9 +161,9 @@
   },
   "active": "ac9e51c7b87464d6",
   "lastOpenFiles": [
-    "Tic Tac Toe Project Learnings.md",
     "React Essentials - Deep Dive.md",
     "React Essentials.md",
+    "React Essentials - Deep Dive II.md",
     "React – The Complete 2024 Guide.md",
     "Untitled",
     "Preliminaries.md",
