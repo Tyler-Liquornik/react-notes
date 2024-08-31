@@ -1,62 +1,45 @@
 {
   "main": {
-    "id": "4946418829bc028b",
+    "id": "915ee2938dcd3c33",
     "type": "split",
     "children": [
       {
-        "id": "864c1fe655b18e1a",
+        "id": "34cfc1001a082b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "6d9e59ffc567c42a",
+            "id": "653639841a799deb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React Essentials - Deep Dive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac9e51c7b87464d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React Essentials - Deep Dive II.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b170da0d9f42b159",
+    "id": "99d7efa27fc506db",
     "type": "split",
     "children": [
       {
-        "id": "a0af83004388b33e",
+        "id": "75c9402500251f89",
         "type": "tabs",
         "children": [
           {
-            "id": "71979973579072c6",
+            "id": "8c2d5acb5260f698",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "cdd163595ba5040e",
+            "id": "d9b31163e522147a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "a902c7045b5e71bd",
+            "id": "cb46dad05b9c5bea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "d3e09fe30bb72ca8",
+    "id": "19edfa24ed44831d",
     "type": "split",
     "children": [
       {
-        "id": "31ec6bcadc86bcc7",
+        "id": "9026b938d62b117d",
         "type": "tabs",
         "children": [
           {
-            "id": "2483373afb1b47cf",
+            "id": "e1d382ac85cdc24e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Essentials - Deep Dive II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "cfb38cca845cab49",
+            "id": "97d0d7d406b0be27",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Essentials - Deep Dive II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4441ceeb218f7796",
+            "id": "2b9c3506546ae981",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +114,11 @@
             }
           },
           {
-            "id": "1d15f981ff5593f1",
+            "id": "0368c1a74f8ed755",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React Essentials - Deep Dive II.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,19 +138,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71979973579072c6",
-  "lastOpenFiles": [
-    "Tic Tac Toe Project Learnings.md",
-    "React – The Complete 2024 Guide.md",
-    "React Essentials - Deep Dive.md",
-    "React Essentials.md",
-    "React Essentials - Deep Dive II.md",
-    "Untitled",
-    "Preliminaries.md",
-    "Pasted image 20240813013357.png",
-    "Pasted image 20240813013345.png",
-    "Pasted image 20240813013440.png",
-    "image (1).png",
-    "backup_repo.sh"
-  ]
+  "floating": {
+    "id": "9406657c6ee90812",
+    "type": "floating",
+    "children": [
+      {
+        "id": "70509ad659bd944c",
+        "type": "window",
+        "children": [
+          {
+            "id": "8d4c2ce94a5cc1a3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee584e977e3c3150",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 684,
+        "y": 73,
+        "width": 680,
+        "height": 760,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ee584e977e3c3150",
+  "lastOpenFiles": []
 }

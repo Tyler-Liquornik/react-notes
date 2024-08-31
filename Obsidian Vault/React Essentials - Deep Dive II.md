@@ -180,3 +180,5 @@ function addItem() {
 ```
 
 This doesn't work because `newItems = items` still points `newItems` to the same memory reference as `items`, and thus mutating `newItems` mutates `items`. We need to actually create a new array in memory, and explicitly having `[x, y, z, ...]` achieves this, similar to the `new` keyword for an object.
+
+test commit from my pc
