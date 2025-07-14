@@ -1,4 +1,4 @@
-# React - The Complete 2024 Guide
+# React - The Complete 2025 Guide
 <hr>
 
 My personal journey to master React.js <br/>
